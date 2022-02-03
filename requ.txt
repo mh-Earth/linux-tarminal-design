@@ -1,0 +1,4 @@
+sudo apt install figlet
+sudo apt-get install lolcat
+sudo apt install linuxlogo
+sudo apt install cmatrix
